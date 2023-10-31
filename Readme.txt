@@ -69,3 +69,6 @@ Ran the application which resulted in app running with the required css
 Added a new admin area in the Areas folder
 Updated the files in a similar way as the Customer folder
 Updated the Github repo with a completed part 1 of the project
+
+12:49pm EDT
+updated the home page
